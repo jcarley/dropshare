@@ -120,7 +120,7 @@ class Home extends Component {
           >
             <HeaderToolbar
               open={open}
-              title="DropShare Test"
+              title="DropShare"
               classes={classes}
               handleDrawerOpen={this.handleDrawerOpen}
             />
